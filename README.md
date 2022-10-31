@@ -5,4 +5,4 @@ Git
 
 ## 31ST OCTOBER
 
-This is the last day of october
+This is the last day of october and it's monday
